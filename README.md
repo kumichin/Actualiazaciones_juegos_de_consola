@@ -1,4 +1,4 @@
-# Actualiazaciones_juegos_de_consola
+# Actualizaciones_juegos_de_consola
 
 Este repositorio es una recopilación de actualizaciones de otros geniales miniproyectos hechos a lo largo de mi aprendizaje
 
